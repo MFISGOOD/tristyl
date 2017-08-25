@@ -1,0 +1,48 @@
+@CHARSET "ISO-8859-1";
+
+#myButtonSearch {
+	background: url(../images/magnifier.png) no-repeat center left;
+	cursor: pointer;
+	
+}
+.search{
+		background: url(../images/load.png) no-repeat center left;
+	
+}
+#mySearch_name,#mySearch_numFacFour{
+	width: 200px;
+}
+#mySearch_year{
+	width: 60px;
+}
+#mySearch_month{
+	width: 80px;
+}
+#totalMontantPaye{
+	width: 'auto';
+	text-align:right;
+}
+.tristyl_search {
+	padding: 0;
+	border: 0;
+	margin: 2px;
+    margin-left :100px;
+	
+	background: #f9f9f9;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	float: right;
+}
+
+.myTotal{
+	/*
+	margin: 2px;
+	text-align: right;
+	background: #f9f9f9;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	float: right;
+	*/
+	margin-top: 10px;
+	float: right;
+}
